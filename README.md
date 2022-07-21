@@ -25,7 +25,7 @@ Editing filter helps with searching specific UFO sightings. The data will popula
 Check the webpage to see the filters.
 
 **Recommendations**
-- The filter buttom should be remolded for easy use.
-- Remodel the webpage to incorporate more content
+- The filter search should be remolded for easy use.
+- Remodel the webpage by rearranging the visuals.
 
 
